@@ -1,0 +1,5 @@
+D:\Anket\.NET\.NET CORE\Project\API Services\EF\obj\Debug\net7.0\EF.csproj.AssemblyReference.cache
+D:\Anket\.NET\.NET CORE\Project\API Services\EF\obj\Debug\net7.0\EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anket\.NET\.NET CORE\Project\API Services\EF\obj\Debug\net7.0\EF.AssemblyInfoInputs.cache
+D:\Anket\.NET\.NET CORE\Project\API Services\EF\obj\Debug\net7.0\EF.AssemblyInfo.cs
+D:\Anket\.NET\.NET CORE\Project\API Services\EF\obj\Debug\net7.0\EF.csproj.CoreCompileInputs.cache
